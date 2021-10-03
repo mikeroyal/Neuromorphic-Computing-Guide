@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770912-315a640c-1d0f-44d4-b06a-35ed20c2ab63.png">
   <br />
   Neuromorphic Computing Guide
 </h1>
@@ -9,12 +9,12 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770914-155e462b-3ad3-4ca6-be97-505e7b0bc201.png">
   <br />
 </p>
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770894-8f07e3db-59f8-44cd-9105-cee2885aef8f.png">
   <br />
   Types of Neural Networks
 </p>
