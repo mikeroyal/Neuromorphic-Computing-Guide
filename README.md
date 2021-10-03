@@ -1235,7 +1235,7 @@ commercially available industrial robot models that you can import, visualize, a
 </p>
 
 # Circuits
-[Back to the Top](https://github.com/mikeroyal/DSP-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#table-of-contents)
 
     - Ohm's law and circuits with resistors: Circuits
     - Circuits with capacitors: Circuits
