@@ -88,7 +88,7 @@
 
 [Neuromorphic Computing | EBRAINS Research Infrastructure](https://ebrains.eu/service/neuromorphic-computing/)
 
-[Neuromorphic devices & systems, IBM Research Zurich](https://www.zurich.ibm.com/st/neuromorphic/)
+[Neuromorphic devices & systems | IBM Research Zurich](https://www.zurich.ibm.com/st/neuromorphic/)
 
 [Top Computational Neuroscience Courses Online | Coursera](https://www.coursera.org/courses?query=computational%20neuroscience)
 
