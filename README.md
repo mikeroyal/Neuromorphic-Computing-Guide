@@ -86,6 +86,10 @@
 
 [Neuromorphic Computing | NIST](https://www.nist.gov/programs-projects/neuromorphic-computing)
 
+[Neuromorphic Computing | EBRAINS Research Infrastructure](https://ebrains.eu/service/neuromorphic-computing/)
+
+[Neuromorphic devices & systems, IBM Research Zurich](https://www.zurich.ibm.com/st/neuromorphic/)
+
 [Top Computational Neuroscience Courses Online | Coursera](https://www.coursera.org/courses?query=computational%20neuroscience)
 
 [Computational Neuroscience Course Online | Coursera](https://www.coursera.org/learn/computational-neuroscience)
