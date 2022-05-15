@@ -135,6 +135,14 @@
 
 [Neuromorphic Constraint Optimization](https://github.com/lava-nc/lava-optimization) is a library of solvers that leverage neuromorphic hardware for constrained optimization. Constrained optimization searches for the values of input variables that minimize or maximize a given objective function, while the variables are subject to constraints. This kind of problem is ubiquitous throughout scientific domains and industries. Constrained optimization is a promising application for neuromorphic computing as it [naturally aligns with the dynamics of spiking neural networks](https://doi.org/10.1109/JPROC.2021.3067593).
 
+[NeuroKit2](https://github.com/neuropsychology/NeuroKit) is a user-friendly Python package providing easy access to advanced biosignal processing routines. 
+
+[Neuro Digital Signal Processing(NeuroDSP) Toolbox](https://github.com/neurodsp-tools/neurodsp) is a collection of approaches for applying digital signal processing to neural time series, including algorithms that have been proposed for the analysis of neural time series. It also includes simulation tools for generating plausible simulations of neural time series.
+
+[MNE-Python](https://github.com/mne-tools/mne-python) is an open-source Python package for exploring, visualizing, and analyzing human neurophysiological data such as Magnetoencephalography (MEG) , Electroencephalography (EEG), sEEG, ECoG, and more. It includes modules for data input/output, preprocessing, visualization, source estimation, time-frequency analysis, connectivity analysis, machine learning, and statistics.
+
+[Nengo](https://github.com/nengo/nengo) is a Python library for building and simulating large-scale neural models. It can create sophisticated spiking and non-spiking neural simulations with sensible defaults in a few lines of code. 
+
 [Keras](https://keras.io) is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
 
 [ONNX Runtime](https://github.com/microsoft/onnxruntime) is a cross-platform, high performance ML inferencing and training accelerator. It supports models from deep learning frameworks such as PyTorch and TensorFlow/Keras as well as classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc.
