@@ -209,6 +209,12 @@
 
 [Neuro Digital Signal Processing(NeuroDSP) Toolbox](https://github.com/neurodsp-tools/neurodsp) is a collection of approaches for applying digital signal processing to neural time series, including algorithms that have been proposed for the analysis of neural time series. It also includes simulation tools for generating plausible simulations of neural time series.
 
+[Norse](https://norse.github.io/norse/) is a deep learning tool with spiking neural networks (SNNs) in PyTorch. It expands PyTorch with primitives for bio-inspired neural components, bringing you two advantages: a modern and proven infrastructure based on PyTorch and deep learning-compatible spiking neural network components.
+
+[JAX](https://github.com/google/jax) is [Autograd](https://github.com/hips/autograd) and [XLA](https://www.tensorflow.org/xla), brought together for high-performance numerical computing and machine learning research. It provides composable transformations of Python+NumPy programs such as differentiate, vectorize, parallelize, Just-In-Time (JIT) compile to GPU/TPU, and more.
+
+[XLA (Accelerated Linear Algebra)](https://www.tensorflow.org/xla) is a domain-specific compiler for linear algebra that can accelerate TensorFlow models with potentially no source code changes.
+
 [MNE-Python](https://github.com/mne-tools/mne-python) is an open-source Python package for exploring, visualizing, and analyzing human neurophysiological data such as Magnetoencephalography (MEG) , Electroencephalography (EEG), sEEG, ECoG, and more. It includes modules for data input/output, preprocessing, visualization, source estimation, time-frequency analysis, connectivity analysis, machine learning, and statistics.
 
 [Nengo](https://github.com/nengo/nengo) is a Python library for building and simulating large-scale neural models. It can create sophisticated spiking and non-spiking neural simulations with sensible defaults in a few lines of code. 
