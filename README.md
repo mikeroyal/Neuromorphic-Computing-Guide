@@ -22,7 +22,7 @@
 
 # Table of Contents
 
-1. [Getting Stat\rted with Neuromorphic Computing](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#Getting-Started -with-Neuromorphic-Computing)
+1. [Getting Stat\rted with Neuromorphic Computing](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#Getting-Started-with-Neuromorphic-Computing)
      * [Developer Resources](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#developer-resources)
      * [Online Training Courses](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#online-training-courses)
      * [Books](https://github.com/mikeroyal/Neuromorphic-Computing-Guide#books)
@@ -154,6 +154,8 @@
 
 ### Books
 
+[Back to the Top](#table-of-contents)
+
  * [Neuromorphic Computing Principles and Organization by Abderazek Ben Abdallah and Khanh N. Dang](https://www.amazon.com/Neuromorphic-Computing-Principles-Organization-Abderazek-ebook-dp-B0B2VWTBJH/dp/B0B2VWTBJH/ref=mt_other?_encoding=UTF8&me=&qid=1664159825)
 
  * [Neuromorphic Computing and Beyond: Parallel, Approximation, Near Memory, and Quantum by Khaled Salah Mohamed](https://www.amazon.com/Neuromorphic-Computing-Beyond-Parallel-Approximation/dp/3030372235)
@@ -162,7 +164,7 @@
  
  * [Memristors for Neuromorphic Circuits and Artificial Intelligence Applications by Jordi Suñé](https://www.amazon.com/Memristors-Neuromorphic-Artificial-Intelligence-Applications/dp/3039285769/ref=sr_1_2?crid=1Q98YGBP8R3T5&keywords=Neuromorphic+Computing&qid=1664159919&qu=eyJxc2MiOiIzLjk0IiwicXNhIjoiMy42NSIsInFzcCI6IjIuNzUifQ%3D%3D&refinements=p_72%3A1250221011&rnid=1250219011&s=books&sprefix=neuromorphic+computing%2Cstripbooks%2C329&sr=1-2)
  
- * [Learning in Energy-Efficient Neuromorphic Computing: Algorithm and Architecture Co-Design by Nan Zheng, Pinaki Mazumder(https://www.google.com/books/edition/Learning_in_Energy_Efficient_Neuromorphi/IvC0DwAAQBAJ?hl=en&gbpv=0) 
+ * [Learning in Energy-Efficient Neuromorphic Computing: Algorithm and Architecture Co-Design by Nan Zheng, Pinaki Mazumder](https://www.google.com/books/edition/Learning_in_Energy_Efficient_Neuromorphi/IvC0DwAAQBAJ?hl=en&gbpv=0) 
 
  * [Neuromorphic Devices for Brain-inspired Computing: Artificial Intelligence, Perception, and Robotics by Qing Wan, Yi Shi](https://www.google.com/books/edition/Neuromorphic_Devices_for_Brain_inspired/GLtREAAAQBAJ?hl=en&gbpv=0) 
  
@@ -172,7 +174,9 @@
  
  * [Neuromorphic Photonics by Bhavin J. Shastri, Paul R. Prucnal](https://www.google.com/books/edition/Neuromorphic_Photonics/VbvODgAAQBAJ?hl=en&gbpv=0)
  
- ### YouTube channels
+ ### YouTube videos
+ 
+ [Back to the Top](#table-of-contents)
  
  * [Neuromorphic Computing Explained | Jeffrey Shainline and Lex Fridman](https://www.youtube.com/watch?v=u22-2CTErIQ)
  
