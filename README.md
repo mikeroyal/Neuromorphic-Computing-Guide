@@ -227,6 +227,11 @@
 
 [TorchServe](https://pytorch.org/serve/) is a flexible and easy to use tool for serving PyTorch models.
 
+[TensorFlow Model Optimization Toolkit](https://www.tensorflow.org/model_optimization) is a suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution. It provides supported techniques that include quantization and pruning for sparse weights. Along with APIs built specifically for Keras.
+
+[DeepSpars](https://github.com/neuralmagic/deepsparse) is an inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application.
+
+[Intel® Neural Compressor](https://github.com/intel/neural-compressor) is a Low Precision Optimization Tool, targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance. 
 
 [Kornia](https://kornia.github.io/) is a differentiable computer vision library that consists of a set of routines and differentiable modules to solve generic CV (Computer Vision) problems.
 
