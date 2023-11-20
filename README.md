@@ -12,7 +12,7 @@
 
 #### A guide covering Neuromorphic Computing including the applications, libraries and tools that will make you better and more efficient with Neuromorphic Computing development.
 
- **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).** Also, checkout the mdBook version [Neuromorphic Computing Guide mdBook (Special thanks to jonathanwoollett-light)](https://jonathanwoollett-light.github.io/Neuromorphic-Computing-Guide/book/index.html).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/135770914-155e462b-3ad3-4ca6-be97-505e7b0bc201.png">
